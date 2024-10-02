@@ -92,7 +92,7 @@ class Screen2 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Study Shop"), // Cinwaanka sare ee app-ka
+        title: Text("Perfume Shop"), 
       ),
       body: GridView.builder(
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
