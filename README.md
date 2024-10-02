@@ -1,20 +1,15 @@
 <<<<<<< HEAD
 # Flutter-Assignment
 =======
-# stack_colors
+# stack_colors and assets
 
-A new Flutter project.
+This Flutter project demonstrates a simple app with two screens. The first screen showcases 
+a Stack layout with multiple colored containers, and the second screen represents a perfume shop with a grid of perfume items, including their images, names, and prices.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Screen 1: Stack Colors**: A simple stack of colored containers layered on top of each other.
+- **Screen 2: Perfume Shop**: Displays a grid of perfume products with their images, names, and prices.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> efa048f (First commit for stack and shop project)
