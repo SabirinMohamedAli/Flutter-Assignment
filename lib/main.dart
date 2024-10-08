@@ -20,23 +20,23 @@ class Screen1 extends StatelessWidget {
           alignment: Alignment.center,
           children: [
             Container(
-              height: 100,
-              width: 160,
+              height: 150,
+              width: 150,
               color: Colors.black, // Outer layer (black)
             ),
             Container(
-              height: 90,
-              width: 150,
+              height: 110,
+              width: 110,
               color: Colors.brown, // Brown layer
             ),
             Container(
-              height: 80,
-              width: 140,
+              height: 90,
+              width: 90,
               color: Colors.pink, // Pink layer
             ),
             Container(
               height: 70,
-              width: 130,
+              width: 70,
               color: Colors.yellow, // Yellow layer
             ),
             Container(
@@ -66,7 +66,7 @@ class Screen1 extends StatelessWidget {
           },
           child: Text(
             "Ku dhufo si aad u aragto Assignment2", // Qoraal cusub
-            style: TextStyle(fontSize: 18, color: Colors.white), // Qurxin qoraalka
+            style: TextStyle(fontSize: 15, color: Colors.white ), // Qurxin qoraalka
           ),
         ),
       ),
